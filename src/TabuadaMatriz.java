@@ -1,6 +1,6 @@
 public class TabuadaMatriz {
     public static void main(String[] args) {
-        int num = 5;
+        int num = 100;
         int[][] tabuada = new int[10][2];
 
         for(int i = 0; i < 10; ++i) {
