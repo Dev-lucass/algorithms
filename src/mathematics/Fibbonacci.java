@@ -10,7 +10,6 @@ public class Fibbonacci {
 
         if (n < 0 || n == 1) return;
 
-
         int n1 = 0;
         int n2 = 1;
         int n3 = 0;
